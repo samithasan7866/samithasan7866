@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Hasan Sadhin</h1>
-<h3 align="center">A student in Software Engineering and love to learn Python</h3>
+<h3 align="center">My passion is machine learning and computer vision research</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samithasan7866&label=Profile%20views&color=0e75b6&style=flat" alt="samithasan7866" /> </p>
 
